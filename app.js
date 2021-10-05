@@ -10,10 +10,12 @@ let str1 = 'JavaScriptを覚えよう';
 
 // alert(hello); alert(int1); alert(int2); alert(float1); alert(str1);
 
-alert(4 + 3);
+// alert(4 + 3);
 
-alert(8 - 5);
+// alert(8 - 5);
 
-alert(2 * 6);
+// alert(2 * 6);
 
-alert(10 / 2);
+// alert(10 / 2);
+
+alert('Hello' + 'World');
